@@ -1,0 +1,50 @@
+{"Champion List": [
+    {
+        "role": "MARKSMAN",
+        "name": "ashe"
+    },
+    {
+        "role": "TANK",
+        "name": "leona"
+    },
+    {
+        "role": "MARKSMAN",
+        "name": "lucian"
+    },
+    {
+        "role": "MARKSMAN",
+        "name": "yasuo"
+    },
+    {
+        "role": "TANK",
+        "name": "rell"
+    },
+    {
+        "role": "MAGE",
+        "name": "bard"
+    },
+    {
+        "role": "MARKSMAN",
+        "name": "jhin"
+    },
+    {
+        "role": "TANK",
+        "name": "braum"
+    },
+    {
+        "role": "MAGE",
+        "name": "akali"
+    },
+    {
+        "role": "MARKSMAN",
+        "name": "ezreal"
+    },
+    {
+        "role": "MAGE",
+        "name": "yuumi"
+    },
+    {
+        "role": "MAGE",
+        "name": "ziggs"
+    }
+]}
